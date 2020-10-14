@@ -34,7 +34,7 @@
 </ol>
 <p>其他：<br>
 5. 车应该是Full to full 包括汽，油，水<br>
-6. 车载充电器/蓝牙接收器 [ML]<br>
+6. 车载手机架/车载充电器/蓝牙接收器 [ML]<br>
 7. <a href="https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9442396&amp;units=standard&amp;bdate=20201015&amp;edate=20201017&amp;timezone=LST/LDT&amp;clock=12hour&amp;datum=MLLW&amp;interval=hilo&amp;action=dailychart">海潮</a><br>
 8. 车体size：</p>
 <ul>
